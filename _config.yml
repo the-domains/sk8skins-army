@@ -1,0 +1,28 @@
+name: Sk8Skins Army
+favicon: null
+layout_spectrum: 0.22963454434648156
+typography_spectrum: 0.42374817351810634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.03358009085059166
+  lightness: 0.37171076121740043
+  saturation: 0.8341890266165137
+  rhythmicContrast: 0.4170419506262988
+purpose: []
